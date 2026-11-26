@@ -1,6 +1,11 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Srdjan Baic Banner">
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srdjanbaic&label=PROFILE+VIEWS&color=2ea043&style=flat-square" alt="Profile Views" />
+</p>
+
 # 👋 Hey, I'm Srdjan
 
 <p>
